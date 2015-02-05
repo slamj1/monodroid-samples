@@ -1,7 +1,9 @@
-
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchableDictionary", "SearchableDictionary.csproj", "{19851C3F-2C7D-45D8-9D5F-BC6E0ADD214F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchableDictionary.UITest", "SearchableDictionary.UITest\SearchableDictionary.UITest.csproj", "{8325E3A2-BF2B-4E54-945F-1E23D1AFE59E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,8 +15,9 @@ Global
 		{19851C3F-2C7D-45D8-9D5F-BC6E0ADD214F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19851C3F-2C7D-45D8-9D5F-BC6E0ADD214F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19851C3F-2C7D-45D8-9D5F-BC6E0ADD214F}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = SearchableDictionary.csproj
+		{8325E3A2-BF2B-4E54-945F-1E23D1AFE59E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8325E3A2-BF2B-4E54-945F-1E23D1AFE59E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8325E3A2-BF2B-4E54-945F-1E23D1AFE59E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8325E3A2-BF2B-4E54-945F-1E23D1AFE59E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
